@@ -1,0 +1,8 @@
+Using ls --help
+
+options:
+
+-U  do not sort; list entries in directory order
+-t  sort by time, newest first; see --time
+-m  fill width with a comma separated list of entries
+-p  append / indicator to directories
